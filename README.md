@@ -1,1 +1,1 @@
-###  markdown文章中的图片
+###  markdown文章中的图片,文件等
